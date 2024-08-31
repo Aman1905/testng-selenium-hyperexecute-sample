@@ -17,7 +17,6 @@ public class Test4
     String username = Test1.username;
     String access_key = Test1.access_key;
 
-//    String testURL = "https://todomvc.com/examples/react/#/";
     String testURL = "https://lambdatest.github.io/sample-todo-app/";
     String testURLTitle = "Sample page - lambdatest.com";
 
